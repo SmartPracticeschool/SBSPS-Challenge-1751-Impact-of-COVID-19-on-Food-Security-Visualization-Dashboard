@@ -12,3 +12,7 @@ Linked below are the dashboards for Food Security in India and for Churn Analysi
 
 ## Food Security in India:
 https://eu-gb.dataplatform.cloud.ibm.com/dashboards/d3af55e6-f9c2-4fe2-84f1-9a9d32fe1403/view/1927d86062b110cf43e0d0e407982d577835205ebabb855681d07b490f662297f33f4790c828495ada180560f5bd400bcf
+
+## Churn analysis through cluster visualisation
+
+https://eu-gb.dataplatform.cloud.ibm.com/dashboards/311f28eb-7a1b-42bd-b4e9-b44afacfab47/view/7217ca3b14a32d9e12d5cce4079c2d522b322559e4bbd00681d17b490c612297a96a1b99c82d4f5ad8430360f1ee140c9d
