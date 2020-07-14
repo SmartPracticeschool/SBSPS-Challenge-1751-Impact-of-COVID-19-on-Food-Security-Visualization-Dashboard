@@ -16,3 +16,7 @@ https://eu-gb.dataplatform.cloud.ibm.com/dashboards/d3af55e6-f9c2-4fe2-84f1-9a9d
 ## Churn analysis through cluster visualisation
 
 https://eu-gb.dataplatform.cloud.ibm.com/dashboards/311f28eb-7a1b-42bd-b4e9-b44afacfab47/view/7217ca3b14a32d9e12d5cce4079c2d522b322559e4bbd00681d17b490c612297a96a1b99c82d4f5ad8430360f1ee140c9d
+
+## Video links
+Part 1-
+Part 2- https://drive.google.com/file/d/1eARdLzroNBPeBzRLaB34dmqrdGje20Fw/view?usp=sharing
