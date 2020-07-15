@@ -21,3 +21,6 @@ https://eu-gb.dataplatform.cloud.ibm.com/dashboards/311f28eb-7a1b-42bd-b4e9-b44a
 Part 1-https://drive.google.com/file/d/1qnwaFz030hs5MEluzn3Z23ztd2MagQ5S/view?usp=sharing
 
 Part 2- https://drive.google.com/file/d/1eARdLzroNBPeBzRLaB34dmqrdGje20Fw/view?usp=sharing
+
+## Link to PPT
+https://docs.google.com/presentation/d/1LZ6NTFMvsq9wv24Ed42jSUvhO0En8aqBzeTuNGDVec4/edit?usp=sharing
